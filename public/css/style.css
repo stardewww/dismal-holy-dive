@@ -9,7 +9,7 @@ body, div, main, section, article {
 
 /* universal background color */
 body {
-  background-color: #DA5437; 
+  background-color: ##FFC0CB; 
 }
 
 /* header image */
@@ -81,6 +81,7 @@ header img {
 /* link colors */
 a {
       color: #000000;
+      text-decoration: none;
     }
 
 a:hover {
