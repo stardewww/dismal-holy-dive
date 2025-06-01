@@ -60,7 +60,7 @@ const pgData = [
     },
     {
         pgNum: 2,
-        title: "The Second Page Title",
+        title: "the squad + goku",
         date: writeDate(2021, 3, 17),
         altText: "Here's some more alt text!",
         imageFiles: 2,
@@ -71,7 +71,7 @@ const pgData = [
     },
     {
         pgNum: 3,
-        title: "The Third Page Title",
+        title: "Lenard Destro",
         date: writeDate(2021, 3, 18),
         altText: "Here's even more alt text!",
         imageFiles: 1,
