@@ -71,7 +71,7 @@ const pgData = [
     },
     {
         pgNum: 3,
-        title: "Lenard Destro",
+        title: "testing!",
         date: writeDate(2021, 3, 18),
         altText: "Here's even more alt text!",
         imageFiles: 1,
